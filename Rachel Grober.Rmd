@@ -1,0 +1,11 @@
+---
+title: "Rachel Grober"
+output: html_document
+---
+
+My name is Rachel Grober
+My Github username is Rachel-Grober
+
+In the most recent commit, the owner added all of the files to GitHub and named the commit 'First Commit'. The commit ID is 9abf784831b4f410fc1c8441800d2c19f6024bfd 
+
+I was able to knit the owner's file without error. A tip I have for making GitHub easier would be to have a list of commonly used codes to use as a 'cheat sheet'. This list could be stored on GitHub and would allow users to more quickly make needed changes to files.
